@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.practicalexam.JavaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.115 s <<< FAILURE! - in com.practicalexam.JavaApplicationTests
+checkDuplicatedId  Time elapsed: 0.273 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <false> but was: <true>
+	at com.practicalexam.JavaApplicationTests.checkDuplicatedId(EXAM_SE140331_Java_439576447.java:42)
+
