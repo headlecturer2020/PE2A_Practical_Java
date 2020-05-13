@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bd365de-be6f-4bee-b950-e7c8c81ba2bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/utils/RequestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_C_SE1260_06022020/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_C_SE1260_06022020/Result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_JavaWeb_SE1269_20200321/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_JavaWeb_SE1269_20200321/Result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_JavaWeb_SE1269_20200321/Server/Result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_JavaWeb_SE1269_20200323/Server/src/main/java/server/databasetestutil/DatabaseTestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_JavaWeb_SE1269_20200323/Server/src/main/java/server/databasetestutil/DatabaseTestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_IA1406_20200412/TestScripts/Java_439576447.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_IA1406_20200412/TestScripts/Java_439576447.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_IA1431_20200412/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_IA1431_20200412/Result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_IA1431_20200412/Server/evaluating.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_IA1431_20200412/Server/evaluating.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_IA1431_20200412/TestScripts/Java_439576449.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_IA1431_20200412/TestScripts/Java_439576449.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/ExamDocuments/Java_439576447.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/ExamDocuments/Java_439576447.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/ExamDocuments/Java_439576449.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/ExamDocuments/Java_439576449.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/ExamDocuments/Java_439576450.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/ExamDocuments/Java_439576450.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/Result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/servertest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/servertest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/src/main/java/com/practicalexam/JavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/src/main/java/com/practicalexam/JavaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Server/src/test/java/com/practicalexam/TestResultLoggerExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Server/src/test/java/com/practicalexam/TestResultLoggerExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Student_List.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Student_List.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Student_Results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Student_Results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE61616.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE61616.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE61902.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE61902.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62289.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62289.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62792.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62792.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62804.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62804.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62823.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62823.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62841.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62841.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62847.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62847.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62867.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62867.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62878.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62878.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62882.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62882.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE62915.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE62915.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63030.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63030.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63073.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63073.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63146.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63146.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63151.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63151.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63152.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63152.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63155.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63155.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63192.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63192.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63200.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63200.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63220.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63220.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63236.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63236.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63254.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63254.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63284.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63284.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/Submissions/SE63369.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/Submissions/SE63369.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/TestScripts/Java_439576447.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/TestScripts/Java_439576447.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/TestScripts/Java_439576449.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/TestScripts/Java_439576449.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/TestScripts/Java_439576450.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/TestScripts/Java_439576450.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200507/practical-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practical_Java_SE1269_20200505/practical-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE130308.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140025.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140043.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140052.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140077.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140107.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140326.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140331.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140341.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140351.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140353.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140443.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140459.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140473.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140522.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140580.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140588.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140600.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140626.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140635.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140636.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140638.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140640.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140657.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140671.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140786.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140798.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE140948.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE141105.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE141108.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE63146.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SE63155.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../practical-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../practical-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/constants/CommonConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/constants/CommonConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/controller/SubmissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/controller/SubmissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/dto/request/PathDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/dto/request/PathDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/dto/request/PracticalInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/dto/request/PracticalInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/service/serviceImpl/EvaluationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/service/serviceImpl/EvaluationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/service/serviceImpl/SubmissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/service/serviceImpl/SubmissionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/service/serviceImpl/SubmissionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/service/serviceImpl/SubmissionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/utils/CmdExcution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/utils/ZipFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/com/fpt/submission/utils/ZipFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../submission.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../submission.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1azhmFQE7SnzM8PUXIjbHsmqcuG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.JavaApplicationTests">
+    <configuration name="JavaApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practicalexam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practicalexam" />
+      <option name="MAIN_CLASS_NAME" value="com.practicalexam.JavaApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.practicalexam.JavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JavaApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bd365de-be6f-4bee-b950-e7c8c81ba2bd" name="Default Changelist" comment="" />
+      <created>1587744486502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587744486502</updated>
+      <workItem from="1587744490203" duration="1752000" />
+      <workItem from="1587787612471" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="414" height="466" key="DebuggerActiveHint" timestamp="1587788076829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="414" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587788076829" />
+    <state width="1323" height="193" key="GridCell.Tab.0.bottom" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+    <state width="1323" height="193" key="GridCell.Tab.0.center" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+    <state width="1323" height="193" key="GridCell.Tab.0.left" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+    <state width="1323" height="193" key="GridCell.Tab.0.right" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+    <state width="1323" height="193" key="GridCell.Tab.1.bottom" timestamp="1587788271327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587788271327" />
+    <state width="1323" height="193" key="GridCell.Tab.1.center" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+    <state width="1323" height="193" key="GridCell.Tab.1.left" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+    <state width="1323" height="193" key="GridCell.Tab.1.right" timestamp="1587788271326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="193" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587788271326" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/practicalexam/utils/CheckingUtils.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
