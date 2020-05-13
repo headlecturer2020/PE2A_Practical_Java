@@ -12,6 +12,7 @@ import java.util.Scanner;
  * @author FPT University - HCMC Java OOP Practical Exam Template
  */
 
+
 public class Cabinet {
 
     //StartList - do not remove this comment!!!
