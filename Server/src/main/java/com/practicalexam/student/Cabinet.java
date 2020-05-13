@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * @author FPT University - HCMC Java OOP Practical Exam Template
  */
+
 public class Cabinet {
 
     //StartList - do not remove this comment!!!
@@ -28,6 +29,7 @@ static     ArrayList<Shoes> shoeses = new ArrayList<>();
         Shoes shoes = Utils.readFile("add");
         shoeses.add(shoes);
         Shoes shoes2 = Utils.readFile("add2");
+
         shoeses.add(shoes2);
         showAll();
     }
