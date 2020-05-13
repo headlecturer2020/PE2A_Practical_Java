@@ -90,7 +90,7 @@ static     ArrayList<Shoes> shoeses = new ArrayList<>();
     public void showAll() {
         for (Shoes shoese : shoeses) {
             shoese.showProfile();
-         }
+        }
     }
 
 }
